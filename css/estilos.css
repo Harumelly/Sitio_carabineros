@@ -1,4 +1,4 @@
-nav a:hover{
+nav a h5:hover{
     text-decoration: underline;
     background-color: beige;
 }
